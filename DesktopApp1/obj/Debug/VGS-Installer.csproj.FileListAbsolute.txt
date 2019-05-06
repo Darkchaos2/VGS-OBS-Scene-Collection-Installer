@@ -1,0 +1,37 @@
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe.config
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe.manifest
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.application
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.pdb
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGSInstaller.Properties.Resources.resources
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.GenerateResource.cache
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.exe.manifest
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.application
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.CopyComplete
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.exe
+C:\Users\louis\source\repos\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.pdb
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe.config
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe.manifest
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.application
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.exe
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\VGS-Scene-Installer.pdb
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.pdb
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csprojAssemblyReference.cache
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGSInstaller.Properties.Resources.resources
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.GenerateResource.cache
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.CoreCompileInputs.cache
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.exe.manifest
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.application
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Installer.csproj.CopyComplete
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.exe
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\DesktopApp1\DesktopApp1\obj\Debug\VGS-Scene-Installer.pdb
