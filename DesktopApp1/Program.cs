@@ -20,7 +20,7 @@ namespace VGSInstaller
         [STAThread]
         static void Main()
         {
-            string SceneCollectionName = @"\LSUVGSDEV.json";
+            string SceneCollectionName = @"\LSUVGS.json";
 
             string streamPackPath = Directory.GetCurrentDirectory() + @"\Collection";
             string defaultOBSPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\obs-studio\";
@@ -59,12 +59,19 @@ namespace VGSInstaller
 
             #region User Input
 
-            MessageBox.Show("Please select your OBS appdata folder\nFound under %appdata%\\obs-studio\\");
+            MessageBox.Show("Please select your OBS appdata folder\n\nThis can be found under %appdata%\\obs-studio\\", "Installation Directory");
 
             VistaFolderBrowserDialog folderBrowser = new VistaFolderBrowserDialog();
+            folderBrowser.Description = "Select OBS roaming appdata folder...";
+            folderBrowser.UseDescriptionForTitle = true;
             folderBrowser.SelectedPath = defaultOBSPath;
 
-            folderBrowser.ShowDialog();
+            if(folderBrowser.ShowDialog() == false)
+            {
+                MessageBox.Show("Did not install.", "Cancelled");
+                System.Environment.Exit(1);
+            }
+
             userscenePath = folderBrowser.SelectedPath + @"basic\scenes\";
 
             #endregion
@@ -129,7 +136,7 @@ namespace VGSInstaller
 
             #endregion
 
-            MessageBox.Show("You can find the LSUVGS scene in the Scene Collection tab at the top of OBS :)", "Installation completed!");
+            MessageBox.Show("You can find the LSUVGS scene in the Scene Collection tab at the top of OBS :)", "Installation Complete!");
         }
 
         // open obs

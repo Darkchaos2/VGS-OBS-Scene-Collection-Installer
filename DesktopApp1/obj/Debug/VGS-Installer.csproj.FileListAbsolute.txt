@@ -26,6 +26,7 @@ D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\C
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\bin\Debug\Newtonsoft.Json.xml
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.pdb
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\obj\Debug\VGS-Installer.csprojAssemblyReference.cache
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\obj\Debug\VGSInstaller.Properties.Resources.resources
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\obj\Debug\VGS-Installer.csproj.GenerateResource.cache
 D:\Users\louis\Documents\Louis Documents\Academic\Loughborough\Societies\LSUCS\Committee\TwO\VGS-OBS-Scene-Collection-Installer\DesktopApp1\obj\Debug\VGS-Installer.csproj.CoreCompileInputs.cache
