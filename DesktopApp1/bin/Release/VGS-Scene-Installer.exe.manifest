@@ -43,6 +43,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Costura.dll" size="4096">
+      <assemblyIdentity name="Costura" version="3.3.3.0" publicKeyToken="9919EF960D84173D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>isCuQw+7GvFrkjAR3ZwCrls9ifL+yqPox6JJ9LDwxrc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="675752">
       <assemblyIdentity name="Newtonsoft.Json" version="12.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -67,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VGS-Scene-Installer.exe" size="42456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VGS-Scene-Installer.exe" size="388568">
       <assemblyIdentity name="VGS-Scene-Installer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UhNciRU9RWWRm0yywR4CZUe0KdVfxV0eb5VpRUw1ovI=</dsig:DigestValue>
+        <dsig:DigestValue>b7VXqVBipyh1o4j0HT/H1rYLKrCl/hTXlg+/GzVy2lk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

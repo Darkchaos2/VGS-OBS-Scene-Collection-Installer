@@ -72,12 +72,12 @@ namespace VGSInstaller
                 System.Environment.Exit(1);
             }
 
-            userscenePath = folderBrowser.SelectedPath + @"basic\scenes\";
+            userscenePath = folderBrowser.SelectedPath + @"\basic\scenes\";
 
             #endregion
 
             #region Copy assets
-            
+
             var sceneJSONPath = string.Empty;
             
             foreach (string dirPath in Directory.GetDirectories(streamPackPath + @"\Assets", "*.*", SearchOption.AllDirectories))
