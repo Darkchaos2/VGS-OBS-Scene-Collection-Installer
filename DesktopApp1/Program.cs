@@ -98,8 +98,7 @@ namespace VGSInstaller
 
             // Import and parse JSON
             JObject scene = JObject.Parse(File.ReadAllText(streamPackPath + SceneCollectionName));
-
-
+            
             // Change all directories of local sources
             foreach (JObject source in scene["sources"])
             {
